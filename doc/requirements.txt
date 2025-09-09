@@ -1,3 +1,4 @@
 sphinx
-sphinx-rtd-theme
+sphinx-rtd-them
 # Add other dependencies here
+d

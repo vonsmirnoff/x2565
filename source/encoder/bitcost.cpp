@@ -27,7 +27,7 @@
 #include "bitcost.h"
 
 using namespace X265_NS;
-
+//
 void BitCost::setQP(unsigned int qp)
 {
     if (!s_costs[qp])
